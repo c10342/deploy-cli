@@ -1,5 +1,5 @@
 {
-  "name": "deploy",
+  "name": "lin-deploy-cli",
   "version": "1.0.0",
   "description": "前端本地自动化部署工具",
   "main": "index.js",
