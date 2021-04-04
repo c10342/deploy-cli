@@ -32,7 +32,7 @@ function connectServe(config) {
         resolve(ssh);
       })
       .catch((err) => {
-        tools.error(`3-${config.host} 连接失败`, err);
+        tools.logError(`3-${config.host} 连接失败`, err);
         reject();
       });
   });
