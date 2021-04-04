@@ -5,13 +5,13 @@
 ### 全局安装
 
 ```bash
-npm i deploy-cli -g
+npm i lin-deploy-cli -g
 ```
 
 ### 项目安装
 
 ```bash
-npm i deploy-cli -D
+npm i lin-deploy-cli -D
 ```
 
 ## 使用
